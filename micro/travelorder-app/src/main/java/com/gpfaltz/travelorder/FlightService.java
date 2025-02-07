@@ -41,8 +41,8 @@ public interface FlightService {
 	
 	default Flight fallback(long travelOrderId) {
 		Flight flight = new Flight();
-		flight.setSourceAirport(null);
-		flight.setDestinyAirport(null);
+		flight.setSourceAirport("");
+		flight.setDestinyAirport("");
 		flight.setTravelOrderId(travelOrderId);
 		return flight;
 	}
