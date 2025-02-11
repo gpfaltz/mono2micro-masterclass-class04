@@ -17,6 +17,8 @@ JDBC Driver - PostgreSQL - quarkus-jdbc-postgresql
 Lombok - 1.18.36 - org.projectlombok
 RestEasy Reactive Client - quarkus-resteasy-client
 RestEasy Reactive Client JSON-B - quarkus-resteasy-client-jsonb
+SmallRye Health - quarkus-smallrye-health
+SmallRye Fault Tolerance - quarkus-smallrye-fault-tolerance
 
 Check Docker Containers:
 docker ps
