@@ -1,7 +1,7 @@
 # mono2micro-masterclass-c-lass04
 Monolithic Applcation to Micro Services Applications - Class 04/05
 
-Main Objective: Add Health Check (Liveness and Readiness) and Fault Tolerance Functions on Micro Apps
+Main Objective: Implement Health Check (Liveness and Readiness), and Fault Tolerance Functions on Micro Apps
 @Fallback and @CircuitBreaker Annotations
 
 Pre requistes:
