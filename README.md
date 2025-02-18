@@ -97,3 +97,4 @@ curl localhost:8083/travelorder/findById?id=1
 
 Testing Circuit Breaker:
 while true; do curl localhost:8083/travelorder; sleep .3; done
+
